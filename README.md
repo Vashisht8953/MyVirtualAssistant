@@ -9,13 +9,21 @@ Completely designed and implemented using python modules.
 Modules used :
 
 pyttsx3
+
 DateTime
+
 speech_recognition
+
 wikipedia
+
 os
+
 webbrowser
+
 smtplib
+
 youtube_search 9 pyaudio
+
 wheel All modules needs to be imported first before starting project.
 Python 3.6 should be installed and set as virtual/ main environment.
 
